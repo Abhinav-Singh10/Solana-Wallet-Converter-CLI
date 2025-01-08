@@ -26,7 +26,7 @@ Also, ensure you have the `bs58` crate added to your project. If not, you can ad
 
 ```toml
 [dependencies]
-bs58 = "1.0"
+bs58 = "0.4"
 ```
 
 ### Installation
